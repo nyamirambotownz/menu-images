@@ -1,0 +1,1184 @@
+[
+  {
+    "id": "df17cdbd-5792-4d6f-a3a0-fc156ed282e2",
+    "name": "B/FANTA",
+    "category": "Soft drinks",
+    "image": "images/fanta.jpg"
+  },
+  {
+    "id": "2b2c0331-ba56-4503-a3a8-b25edfeb7110",
+    "name": "S/FANTA",
+    "category": "Soft drinks",
+    "image": "images/fanta.jpg"
+  },
+  {
+    "id": "0d2ba764-ef28-422e-8be5-e1521b6038fa",
+    "name": "B/MUTZING",
+    "category": "Beers",
+    "image": "images/mutzig.jpg"
+  },
+  {
+    "id": "804274ca-b675-4654-8715-cdbfe84fe5f0",
+    "name": "S/MUTZING",
+    "category": "Beers",
+    "image": "images/mutzig.jpg"
+  },
+  {
+    "id": "82012a4b-06c4-45ae-9166-85577ac55036",
+    "name": "AMSTEL",
+    "category": "Beers",
+    "image": "images/amstel.jpg"
+  },
+  {
+    "id": "6c08eb8b-7147-4e29-b663-3a11da8fa0b3",
+    "name": "Special Omelette",
+    "category": "Food",
+    "image": "images/vegetable-omelette.jpg"
+  },
+  {
+    "id": "a0547299-575f-4d4a-9915-964e6535e885",
+    "name": "Rolex Vegetables",
+    "category": "Food",
+    "image": "images/rolex.jpg"
+  },
+  {
+    "id": "539ccb8a-ff92-4b2e-ba7d-9b72a8a99003",
+    "name": "Rolex Only",
+    "category": "Food",
+    "image": "images/rolex.jpg"
+  },
+  {
+    "id": "c00d8e77-1d6b-4ba6-9c24-863f5696fbe3",
+    "name": "Rolex Chicken with Chips",
+    "category": "Food",
+    "image": "images/rolex.jpg"
+  },
+  {
+    "id": "5b3816b9-f736-4edd-b2a0-bf5995e0e802",
+    "name": "Plain Omelette",
+    "category": "Food",
+    "image": "images/plain-omelette.jpg"
+  },
+  {
+    "id": "b6242376-e8a4-4422-9a32-808fe1293166",
+    "name": "Vegetables Omelette",
+    "category": "Food",
+    "image": "images/vegetable-omelette.jpg"
+  },
+  {
+    "id": "40522ded-c19a-4037-99bb-598cd6ec3c33",
+    "name": "Agatogo with Vegetables",
+    "category": "Food",
+    "image": "images/agatogo.jpg"
+  },
+  {
+    "id": "82e48ae6-60fc-4009-a8ed-4d29df8bfa39",
+    "name": "Agatogo with Chicken",
+    "category": "Food",
+    "image": "images/agatogo.jpg"
+  },
+  {
+    "id": "a36ea70a-d47f-4afd-8461-29162fa88c91",
+    "name": "Agatogo with Beef & Groundnuts",
+    "category": "Food",
+    "image": "images/agatogo.jpg"
+  },
+  {
+    "id": "207cf847-55dc-41ea-85fe-4e35cd7fdd8b",
+    "name": "Beef Bouillon",
+    "category": "Food",
+    "image": "images/beef-bouillon.jpg"
+  },
+  {
+    "id": "3f8189b9-321f-4461-b3cb-c0eaa8eb28df",
+    "name": "Chicken Bouillon",
+    "category": "Food",
+    "image": "images/chicken-soup.jpg"
+  },
+  {
+    "id": "2e74855b-4cbc-4586-b983-81a129f39b50",
+    "name": "Fish Bouillon",
+    "category": "Food",
+    "image": "images/fish-soup.jpg"
+  },
+  {
+    "id": "e7f77d29-9acc-4f80-8af9-5b33ef4dc152",
+    "name": "Spaghetti Bolognaise",
+    "category": "Food",
+    "image": "images/spaghetti-bolognese.jpg"
+  },
+  {
+    "id": "ee92116b-5ec7-4cab-815e-6a01bf2eaa8e",
+    "name": "Beef Chips & Rice",
+    "category": "Food",
+    "image": "images/beef-stew.jpg"
+  },
+  {
+    "id": "dced362a-5ae4-4017-bd79-103c5d7dd35c",
+    "name": "Beef & Chips",
+    "category": "Food",
+    "image": "images/beef-stew.jpg"
+  },
+  {
+    "id": "628255ec-130b-4112-b815-857e4b461e01",
+    "name": "Beef & Fried Potato (Pomme Sautées)",
+    "category": "Food",
+    "image": "images/beef-stew.jpg"
+  },
+  {
+    "id": "d49000d1-6d6f-4c9d-95ef-da96c49b7e87",
+    "name": "Beef & Boiled Potato",
+    "category": "Food",
+    "image": "images/beef-stew.jpg"
+  },
+  {
+    "id": "238517c7-b43d-48f1-b456-dd315d841f0b",
+    "name": "Beef Stew with Rice, Chips & Vegetables",
+    "category": "Food",
+    "image": "images/beef-stew.jpg"
+  },
+  {
+    "id": "82ec0027-22f4-4f5c-b191-31f79684d172",
+    "name": "Beef & Banana",
+    "category": "Food",
+    "image": "images/agatogo.jpg"
+  },
+  {
+    "id": "2487696f-524f-40bd-aea7-0a1eae62ee63",
+    "name": "Ubugali with Jari/Ragout/Chicken",
+    "category": "Food",
+    "image": "images/ugali-with-beef.jpg"
+  },
+  {
+    "id": "26081494-73b3-4ee1-96ef-fcc78db86a1a",
+    "name": "Ubugali with Sambaza",
+    "category": "Food",
+    "image": "images/sambaza.jpg"
+  },
+  {
+    "id": "fdbee4e1-18be-4fef-8df1-98b79b0c7d56",
+    "name": "Ubugari with Beef",
+    "category": "Food",
+    "image": "images/ugali-with-beef.jpg"
+  },
+  {
+    "id": "0d4db4ee-cf48-4944-bbf7-bba8c3201831",
+    "name": "Kaunga with Ragout/Pork/Chicken",
+    "category": "Food",
+    "image": "images/ugali-with-beef.jpg"
+  },
+  {
+    "id": "76c28196-083d-402b-adcc-8aef4d22ae9f",
+    "name": "Kaunga with Beef",
+    "category": "Food",
+    "image": "images/ugali-with-beef.jpg"
+  },
+  {
+    "id": "2afd877c-259b-43a8-bf6f-54f335a5bdc6",
+    "name": "Whole Fish Boiled",
+    "category": "Food",
+    "image": "images/fish-soup.jpg"
+  },
+  {
+    "id": "1014338d-ca6d-46b2-80cb-c1e4fc23e8f2",
+    "name": "Fish Stew with Chips or Rice",
+    "category": "Food",
+    "image": "images/fish-stew.jpg"
+  },
+  {
+    "id": "ec5f254b-d0ed-4a6f-8233-ec42a5607fb5",
+    "name": "Fish Fillet with Chips",
+    "category": "Food",
+    "image": "images/fish-and-chips.jpg"
+  },
+  {
+    "id": "ed7b5ca7-41df-41e7-bfba-63c1e017ff6b",
+    "name": "Whole Chicken Brian",
+    "category": "Food",
+    "image": "images/whole-chicken.jpg"
+  },
+  {
+    "id": "fd334b20-0341-45da-97e0-eb5d76083d72",
+    "name": "Half Chicken Brian",
+    "category": "Food",
+    "image": "images/half-chicken.jpg"
+  },
+  {
+    "id": "ce4886bf-79d0-44ee-8ff1-118eb9a7ca00",
+    "name": "Chicken Brian (Plate)",
+    "category": "Food",
+    "image": "images/half-chicken.jpg"
+  },
+  {
+    "id": "80e010ef-587c-429d-adec-bcdb843f3a0d",
+    "name": "Chicken Reg with Chips or Rice",
+    "category": "Food",
+    "image": "images/chicken-and-chips.jpg"
+  },
+  {
+    "id": "ed8d2eb4-ceb6-49e4-a9e6-8c632e135f41",
+    "name": "Chicken Wings with Chips or Rice",
+    "category": "Food",
+    "image": "images/chicken-wings.jpg"
+  },
+  {
+    "id": "0c113454-9fc4-4fab-9917-7f1c303bc92b",
+    "name": "Beef Brian",
+    "category": "Food",
+    "image": "images/beef-stew.jpg"
+  },
+  {
+    "id": "11c49082-8217-4c2f-9fd1-4e62687ab279",
+    "name": "Igisafuriya (Chicken/Goat)",
+    "category": "Food",
+    "image": "images/igisafuriya.jpg"
+  },
+  {
+    "id": "6cc36bc9-cc7b-421e-9b80-7583cbcde06e",
+    "name": "Igisafuriya",
+    "category": "Food",
+    "image": "images/igisafuriya.jpg"
+  },
+  {
+    "id": "12edccba-7f2c-4e83-9215-55afd8d5bf33",
+    "name": "Whole Chicken Bouillon",
+    "category": "Food",
+    "image": "images/igisafuriya.jpg"
+  },
+  {
+    "id": "1a5279f4-8476-4421-abac-356858dc76f5",
+    "name": "Pork 1kg",
+    "category": "Food",
+    "image": "images/pork-with-potatoes.jpg"
+  },
+  {
+    "id": "24d49cdb-9829-4444-961c-4b7b4322464c",
+    "name": "Pork 1/2kg",
+    "category": "Food",
+    "image": "images/pork-with-potatoes.jpg"
+  },
+  {
+    "id": "ca91e93e-e205-44c3-bea1-1a81213bf83e",
+    "name": "Pork with Chips or Kaunga",
+    "category": "Food",
+    "image": "images/pork-with-chips.jpg"
+  },
+  {
+    "id": "105a9e51-94e6-4427-a020-518a7a26f117",
+    "name": "Pork with Banana or Potato",
+    "category": "Food",
+    "image": "images/pork-with-potatoes.jpg"
+  },
+  {
+    "id": "333c6fd4-0d91-414a-8beb-d25dc164b0fb",
+    "name": "Boiled Potato",
+    "category": "Food",
+    "image": "images/boiled-potato.jpg"
+  },
+  {
+    "id": "7b8e7ec5-8024-481a-a25b-554899aaf8f1",
+    "name": "Pomme Sautées",
+    "category": "Food",
+    "image": "images/pommes-sautees.jpg"
+  },
+  {
+    "id": "c2664501-0c37-4e7d-b372-2b0f671e8627",
+    "name": "Vegetable Soup",
+    "category": "Food",
+    "image": "images/vegetable-soup.jpg"
+  },
+  {
+    "id": "7a7ccbc0-ba78-44f4-a156-44d911567334",
+    "name": "Pumpkin Soup",
+    "category": "Food",
+    "image": "images/pumpkin-soup.jpg"
+  },
+  {
+    "id": "8e70e8cb-e1cf-4fdf-a175-a3ab2ed2d2b7",
+    "name": "Fish Soup",
+    "category": "Food",
+    "image": "images/fish-soup.jpg"
+  },
+  {
+    "id": "c775fed2-54de-41c2-8815-2f730a14693e",
+    "name": "Chicken Soup",
+    "category": "Food",
+    "image": "images/chicken-soup.jpg"
+  },
+  {
+    "id": "cb61b600-43eb-4039-8a95-146fa5cb6bc5",
+    "name": "Mixed Salad",
+    "category": "Food",
+    "image": "images/mixed-salad.jpg"
+  },
+  {
+    "id": "a53a7f47-825d-446b-ba17-8441a7893a98",
+    "name": "Chef Salad (Lettuce, Avocado, Eggs)",
+    "category": "Food",
+    "image": "images/chef-salad.jpg"
+  },
+  {
+    "id": "71e2562d-e13e-4ea2-8532-988331fc2dd6",
+    "name": "Gacumbari",
+    "category": "Food",
+    "image": "images/kachumbari.jpg"
+  },
+  {
+    "id": "9d4532c6-7276-40e5-987a-3d1f0bdcbd9e",
+    "name": "Fish Brochette",
+    "category": "Barbecue",
+    "image": "images/fish-brochette.jpg"
+  },
+  {
+    "id": "9913b3b1-a4cb-42c1-b833-bf91cf3f37e8",
+    "name": "Chicken Brochette",
+    "category": "Barbecue",
+    "image": "images/chicken-brochette.jpg"
+  },
+  {
+    "id": "b28dbd17-eac7-48ce-8a4c-e57e633dfb54",
+    "name": "Zingaro Brochette",
+    "category": "Barbecue",
+    "image": "images/beef-brochette.jpg"
+  },
+  {
+    "id": "63a7d527-efcd-4cdc-84de-db5d33fcd99c",
+    "name": "Goat Brochette",
+    "category": "Barbecue",
+    "image": "images/goat-brochette.jpg"
+  },
+  {
+    "id": "1f501bbb-b7d6-421b-8ccc-7f58997af1a0",
+    "name": "Sausage Brochette",
+    "category": "Barbecue",
+    "image": "images/sausage.jpg"
+  },
+  {
+    "id": "5d47bd21-5ec5-4097-9f6d-c036a2c19028",
+    "name": "Whole Chicken with Side Dish",
+    "category": "Barbecue",
+    "image": "images/whole-chicken.jpg"
+  },
+  {
+    "id": "2f6b747a-c465-45dc-bf41-d9f59f74bb7d",
+    "name": "Half Chicken with Side Dish",
+    "category": "Barbecue",
+    "image": "images/half-chicken.jpg"
+  },
+  {
+    "id": "8e3adfef-3446-4759-83f5-1a36392ff23b",
+    "name": "Special Best Corner Chicken",
+    "category": "Barbecue",
+    "image": "images/whole-chicken.jpg"
+  },
+  {
+    "id": "b2085456-5e63-46b3-bc4d-3d4127de52f4",
+    "name": "Whole Fish with Side Dish",
+    "category": "Food",
+    "image": "images/whole-fish.jpg"
+  },
+  {
+    "id": "6dfe2c4a-18b6-4e51-9e5a-2c33f8c63ad8",
+    "name": "Ikidari",
+    "category": "Barbecue",
+    "image": "images/goat-meat.jpg"
+  },
+  {
+    "id": "2e46ac25-779b-4d73-82cf-6e5aea1d3841",
+    "name": "Nyama Choma",
+    "category": "Barbecue",
+    "image": "images/nyama-choma.jpg"
+  },
+  {
+    "id": "6c868bfd-a94e-4b40-a945-6523c98b6589",
+    "name": "potato",
+    "category": "Food",
+    "image": "images/boiled-potato.jpg"
+  },
+  {
+    "id": "cfc100cf-beda-456d-a46d-633475b5d99e",
+    "name": "AFRICAN TEA",
+    "category": "Food",
+    "image": "images/african-tea.jpg"
+  },
+  {
+    "id": "8ebf7a6f-767e-4e10-ae5b-53d7baa7afb9",
+    "name": "chips",
+    "category": "Food",
+    "image": "images/chips.jpg"
+  },
+  {
+    "id": "9008603f-47c5-405e-a385-c5ed8a72eb2a",
+    "name": "PRIMUS",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "b8618d47-3cf4-4bb3-96f4-cc38b770dbfe",
+    "name": "S/SKOL",
+    "category": "Beers",
+    "image": "images/skol.jpg"
+  },
+  {
+    "id": "37229cea-a9d0-43b5-8d99-e9ac37f100e2",
+    "name": "igisafuriya fish",
+    "category": "Food",
+    "image": "images/fish-stew.jpg"
+  },
+  {
+    "id": "9c6cf0ed-5438-4c2b-8301-b3e068c0cb63",
+    "name": "banana fry",
+    "category": "Food",
+    "image": "images/fried-plantain.jpg"
+  },
+  {
+    "id": "9b9169aa-06c5-48ff-ab0e-cd3504f07645",
+    "name": "salade",
+    "category": "Food",
+    "image": "images/mixed-salad.jpg"
+  },
+  {
+    "id": "527bc6e3-b264-414e-8439-112386fafddc",
+    "name": "banana",
+    "category": "Food",
+    "image": "images/banana.jpg"
+  },
+  {
+    "id": "0097b752-53fa-4956-871c-4fd8925206be",
+    "name": "spice tea",
+    "category": "Soft drinks",
+    "image": "images/spice-tea.jpg"
+  },
+  {
+    "id": "fb9b2bfd-299d-4ee3-b4b4-ee8a637718ef",
+    "name": "VIRUNGA MIST",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "307f3b35-e38f-4bb9-84a9-0beafc52e60f",
+    "name": "VIRUNGA SILVER",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "0efc102b-d839-4c61-8c90-ea3aec7530f2",
+    "name": "LAGER",
+    "category": "Beers",
+    "image": "images/skol.jpg"
+  },
+  {
+    "id": "e3febedc-68a9-40bc-b00d-20ed320aaea9",
+    "name": "PANACHE",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "d4829be4-4421-4722-aad2-756eb09df2c2",
+    "name": "SKOL CAN",
+    "category": "Beers",
+    "image": "images/skol-can.jpg"
+  },
+  {
+    "id": "86368151-99d2-47af-8a5a-5b6cf4308def",
+    "name": "SKOL lager",
+    "category": "Beers",
+    "image": "images/skol.jpg"
+  },
+  {
+    "id": "edfe1cb7-2684-4b61-8f99-ea1d34585edf",
+    "name": "big skol",
+    "category": "Beers",
+    "image": "images/skol.jpg"
+  },
+  {
+    "id": "1bbc8cde-d6b7-43bd-9268-402abcf80a6e",
+    "name": "LEGEND",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "f2a9dd07-71eb-477b-99b1-ec8570bc5d01",
+    "name": "TUSKER LAGER",
+    "category": "Beers",
+    "image": "images/tusker-lager.jpg"
+  },
+  {
+    "id": "f8c89ee5-3308-46d8-a045-d6bf6f3e4d91",
+    "name": "Amstel Bock S",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "daecc765-b4c7-4804-888f-c3efe0f0334b",
+    "name": "tusker malte",
+    "category": "Beers",
+    "image": "images/tusker-malt.jpg"
+  },
+  {
+    "id": "c94bdf4c-118a-408b-ab13-65c099664935",
+    "name": "baron dargac",
+    "category": "Wines",
+    "image": "images/baron-darignac.jpg"
+  },
+  {
+    "id": "bb3c48ef-b4d6-4307-b6c9-341ef1130200",
+    "name": "gold berg",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "83756b99-cd05-458d-b01c-cb0bdbeae480",
+    "name": "amalura pishe",
+    "category": "Wines",
+    "image": "images/amarula.jpg"
+  },
+  {
+    "id": "9a90da96-9a2d-4457-a8c3-8f453f04e4d5",
+    "name": "NICE GUARANNA",
+    "category": "Beers",
+    "image": "images/guarana.jpg"
+  },
+  {
+    "id": "9beecdb6-03e7-4651-a57a-1667f193e340",
+    "name": "juice",
+    "category": "Soft drinks",
+    "image": "images/juice.jpg"
+  },
+  {
+    "id": "9e91d637-dc1c-48ec-b955-e5cc52466bc8",
+    "name": "PORK WITH POTATOES",
+    "category": "Food",
+    "image": "images/pork-with-potatoes.jpg"
+  },
+  {
+    "id": "c2fb9436-8412-4509-bca1-e7e48b2b42b9",
+    "name": "GUINESS",
+    "category": "Beers",
+    "image": "images/guinness.jpg"
+  },
+  {
+    "id": "41fe44ec-d870-4190-b118-11d8047bf49e",
+    "name": "Intore",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "1f1d4045-f207-4844-9958-62e19e804442",
+    "name": "Dunhill",
+    "category": "Beers",
+    "image": "images/dunhill.jpg"
+  },
+  {
+    "id": "c4b09b1e-1a39-4b69-9573-01e7b34f5a50",
+    "name": "GATANU",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "99dd1b29-4415-4b3f-8352-2ebefb24901f",
+    "name": "dodo",
+    "category": "Food",
+    "image": "images/fried-plantain.jpg"
+  },
+  {
+    "id": "3f78f9cd-aaf7-4604-ad42-952c110fb4ba",
+    "name": "chicken leg",
+    "category": "Food",
+    "image": "images/chicken-and-chips.jpg"
+  },
+  {
+    "id": "4a0a18f8-6908-4111-926d-d59a753deb90",
+    "name": "kawunga with beef",
+    "category": "Food",
+    "image": "images/ugali-with-beef.jpg"
+  },
+  {
+    "id": "9bdc875a-a5a1-4596-abc7-0ba86754b5d9",
+    "name": "kawunga with ragou , pork ,chicken",
+    "category": "Food",
+    "image": "images/ugali-with-beef.jpg"
+  },
+  {
+    "id": "626f7d6c-1027-4805-8ae0-d2feb503e2d5",
+    "name": "s k vant",
+    "category": "Liquor",
+    "image": "images/k-vant.jpg"
+  },
+  {
+    "id": "7ce354c7-904f-4353-abe9-2cb6edb8cb0e",
+    "name": "agahozo",
+    "category": "Soft drinks",
+    "image": "images/agahozo-water.jpg"
+  },
+  {
+    "id": "a01c3e23-1276-48ca-8b31-5ebf169a56e6",
+    "name": "gacumbali",
+    "category": "Food",
+    "image": "images/kachumbari.jpg"
+  },
+  {
+    "id": "cfcb7fbb-cabe-4497-83a3-f73725974f30",
+    "name": "mayonnaise",
+    "category": "Food",
+    "image": null
+  },
+  {
+    "id": "6123b928-0acb-4b71-834b-392754c83217",
+    "name": "SMINOFF ICE",
+    "category": "Beers",
+    "image": "images/smirnoff-ice.jpg"
+  },
+  {
+    "id": "df27eaa1-57a1-4a1b-b870-4925ffeb81ad",
+    "name": "ICE GUARANNA",
+    "category": "Beers",
+    "image": "images/guarana.jpg"
+  },
+  {
+    "id": "1d9c4632-0e92-4c9a-9b36-0af07b8abb12",
+    "name": "fish stew",
+    "category": "Food",
+    "image": "images/fish-stew.jpg"
+  },
+  {
+    "id": "4bc81d7e-dd34-48ef-8355-f502b0eb528b",
+    "name": "s water",
+    "category": "Soft drinks",
+    "image": "images/virunga-water.jpg"
+  },
+  {
+    "id": "c58c635b-33ce-4f62-8df3-d1a588ce0293",
+    "name": "amstel big",
+    "category": "Beers",
+    "image": "images/amstel.jpg"
+  },
+  {
+    "id": "db1db70a-27cd-4175-884b-6feffb1578c3",
+    "name": "fanta",
+    "category": "Beers",
+    "image": "images/fanta.jpg"
+  },
+  {
+    "id": "20f9b116-2abc-40dd-ae4a-a1e06d20cc70",
+    "name": "s fanta",
+    "category": "Beers",
+    "image": "images/fanta.jpg"
+  },
+  {
+    "id": "a6fccd10-aa6c-4de7-b4ea-5b26b6a5a24e",
+    "name": "baron d'agnac",
+    "category": "Beers",
+    "image": "images/baron-darignac.jpg"
+  },
+  {
+    "id": "6df0e33b-64b7-473b-9c64-66e42869070e",
+    "name": "pt mts",
+    "category": "Beers",
+    "image": "images/mutzig.jpg"
+  },
+  {
+    "id": "738f4e88-0bc0-4779-8a53-44e72a301cfe",
+    "name": "s skol",
+    "category": "Beers",
+    "image": "images/skol.jpg"
+  },
+  {
+    "id": "4f9bf541-251c-4989-99b9-e72c34fd3838",
+    "name": "mist virunga",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "ba06ee38-a56f-4db1-9df7-e675be3dbba1",
+    "name": "virunga sparkling water",
+    "category": "Beers",
+    "image": "images/sparkling-water.jpg"
+  },
+  {
+    "id": "f48cf4b3-550c-41f5-b1e3-86cbe8ca4379",
+    "name": "omlette",
+    "category": "Food",
+    "image": "images/plain-omelette.jpg"
+  },
+  {
+    "id": "8ae82738-5ea8-48c7-bdb5-2aa40d05a77c",
+    "name": "skol cannet",
+    "category": "Beers",
+    "image": "images/skol-can.jpg"
+  },
+  {
+    "id": "07035fad-7ab3-42d1-952e-99f3ed7d736b",
+    "name": "turbo",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "9a2620d1-c591-454e-aa63-01fc9328268a",
+    "name": "red bull",
+    "category": "Soft drinks",
+    "image": "images/red-bull.jpg"
+  },
+  {
+    "id": "a57be372-1a18-463f-8720-928bdfc401bc",
+    "name": "hennesy v.s.o.p",
+    "category": "Liquor",
+    "image": "images/hennessy.jpg"
+  },
+  {
+    "id": "219c780d-5561-4d91-96ef-0594d916d5bf",
+    "name": "dem sec",
+    "category": "Wines",
+    "image": "images/demi-sec.jpg"
+  },
+  {
+    "id": "3a918430-d6e9-4582-9e3e-ebe4db5a3e0f",
+    "name": "hennesy a half",
+    "category": "Liquor",
+    "image": "images/hennessy.jpg"
+  },
+  {
+    "id": "e8e2c319-1938-48c5-8b72-6a4e1116de25",
+    "name": "glory beer",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "c9cd699a-8f60-4516-ac4e-7171b35a907a",
+    "name": "double black coater",
+    "category": "Liquor",
+    "image": "images/johnnie-walker-double-black.jpg"
+  },
+  {
+    "id": "e9b6aeef-a25f-4431-bf20-9da31a96ad53",
+    "name": "martel v.s.o.p",
+    "category": "Liquor",
+    "image": "images/martell-vsop.jpg"
+  },
+  {
+    "id": "3af448ae-9923-4f83-b4de-a6658e327c69",
+    "name": "bavaria",
+    "category": "Beers",
+    "image": "images/bavaria.jpg"
+  },
+  {
+    "id": "120a2af9-7c98-4eeb-896f-806b86765458",
+    "name": "leffe",
+    "category": "Beers",
+    "image": "images/leffe.jpg"
+  },
+  {
+    "id": "5d79804f-27d8-48a1-a358-fdb03252a0cb",
+    "name": "fanta B",
+    "category": "Beers",
+    "image": "images/fanta.jpg"
+  },
+  {
+    "id": "cd3286e0-d6a4-40f6-8ba7-80dd6bc75d49",
+    "name": "B mitsing",
+    "category": "Beers",
+    "image": "images/mutzig.jpg"
+  },
+  {
+    "id": "42b29883-9809-4f21-b652-7a35bfd24d69",
+    "name": "beef and banana chips",
+    "category": "Food",
+    "image": "images/agatogo.jpg"
+  },
+  {
+    "id": "3389fc84-b7f0-4730-adbb-235d290a3225",
+    "name": "sousage",
+    "category": "Barbecue",
+    "image": "images/sausage.jpg"
+  },
+  {
+    "id": "1c14abc6-310e-49ad-8a06-33a065281d8b",
+    "name": "S MUTSING",
+    "category": "Beers",
+    "image": "images/mutzig.jpg"
+  },
+  {
+    "id": "21d43692-1eca-4f43-a9a1-ee77825da981",
+    "name": "jinger tea",
+    "category": "Soft drinks",
+    "image": "images/ginger-tea.jpg"
+  },
+  {
+    "id": "4efe59a6-4f54-4258-a6b3-4232bd989b4a",
+    "name": "glibbs",
+    "category": "Liquor",
+    "image": "images/gilbeys.jpg"
+  },
+  {
+    "id": "da53672b-f5f0-4ec2-bf53-f7aceb20786c",
+    "name": "heineken",
+    "category": "Beers",
+    "image": "images/heineken.jpg"
+  },
+  {
+    "id": "10b95848-4da0-451f-8893-2210690ef221",
+    "name": "B skol",
+    "category": "Beers",
+    "image": "images/skol.jpg"
+  },
+  {
+    "id": "12b75fab-4c70-47d2-9472-3cbfa86f13e4",
+    "name": "pt skol",
+    "category": "Beers",
+    "image": "images/skol.jpg"
+  },
+  {
+    "id": "360e60ce-9e41-4c42-b79e-47a785f3226b",
+    "name": "amstel bock",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "e9f43e63-fb4f-40bb-9698-040dcdec384c",
+    "name": "savannah",
+    "category": "Beers",
+    "image": "images/savanna.jpg"
+  },
+  {
+    "id": "45bfb12e-6d09-4783-9b8b-7595b766a9e2",
+    "name": "k vant big",
+    "category": "Beers",
+    "image": "images/k-vant.jpg"
+  },
+  {
+    "id": "13e19d56-8a26-4bac-8fda-673dd86afa18",
+    "name": "black label",
+    "category": "Beers",
+    "image": "images/johnnie-walker-black-label.jpg"
+  },
+  {
+    "id": "f48a5e02-0d49-4549-a151-1cbb4bb5584b",
+    "name": "double black",
+    "category": "Beers",
+    "image": "images/johnnie-walker-double-black.jpg"
+  },
+  {
+    "id": "8cbf9b80-75da-4c97-ae33-f5af3c6fa4ee",
+    "name": "tabalish",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "92473735-4acd-4434-8bae-29c15ed72548",
+    "name": "drosty carton 5l",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "2d8e6234-f0ad-4e4b-abe0-02e6be415c7b",
+    "name": "wine pishe",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "ee3d5303-96a7-40d4-8bbb-ff6d97eef1d8",
+    "name": "martin",
+    "category": "Beers",
+    "image": "images/martini.jpg"
+  },
+  {
+    "id": "ab91d8f4-5984-4b51-9732-2ad5ba4305eb",
+    "name": "white wine",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "c7f5c20e-2497-4652-92cf-a380a6ebdcc6",
+    "name": "red wine",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "9825005f-98e2-462f-960a-faed179948d7",
+    "name": "beans",
+    "category": "Food",
+    "image": "images/beans.jpg"
+  },
+  {
+    "id": "24ed3f80-cb86-4b55-97c1-8bb87f878171",
+    "name": "Big gilbeys",
+    "category": "Liquor",
+    "image": "images/gilbeys.jpg"
+  },
+  {
+    "id": "1b4deca8-e15e-4805-907b-42a8e298893d",
+    "name": "s gilbeys",
+    "category": "Liquor",
+    "image": "images/gilbeys.jpg"
+  },
+  {
+    "id": "796453b1-a102-4837-9fd7-6d4d5c08771b",
+    "name": "mateus",
+    "category": "Beers",
+    "image": "images/mateus.jpg"
+  },
+  {
+    "id": "58fddb27-1c8c-47ed-893b-d799ff89218e",
+    "name": "led bull",
+    "category": "Soft drinks",
+    "image": "images/red-bull.jpg"
+  },
+  {
+    "id": "92287eab-e9fb-4ba0-a692-c2f9a97ab4f7",
+    "name": "beefeater",
+    "category": "Liquor",
+    "image": "images/beefeater.jpg"
+  },
+  {
+    "id": "cf8e3c10-1780-4806-a55f-3f86b6dcf16e",
+    "name": "bond 7 s",
+    "category": "Liquor",
+    "image": "images/bond-7.jpg"
+  },
+  {
+    "id": "24d4fd34-86d5-4dc7-ba1f-7577b41c6f3c",
+    "name": "B KONYAGE",
+    "category": "Liquor",
+    "image": null
+  },
+  {
+    "id": "a30307a3-a470-40dc-ab03-ec2f9f679ac6",
+    "name": "H rack",
+    "category": "Liquor",
+    "image": "images/rack-gin.jpg"
+  },
+  {
+    "id": "80071085-28b6-4dfa-967f-c6b1a36e6b95",
+    "name": "REMY MALTIN",
+    "category": "Liquor",
+    "image": "images/remy-martin-vsop.jpg"
+  },
+  {
+    "id": "000ffe86-d283-457b-9964-0720e8e13a38",
+    "name": "pome suite",
+    "category": "Food",
+    "image": "images/pommes-sautees.jpg"
+  },
+  {
+    "id": "56ce8cdd-9e99-463b-9711-a9a5416d0514",
+    "name": "big rack gin",
+    "category": "Liquor",
+    "image": "images/rack-gin.jpg"
+  },
+  {
+    "id": "40f57919-7f88-4891-9b16-c76ca95a3859",
+    "name": "Half rack gin",
+    "category": "Beers",
+    "image": "images/rack-gin.jpg"
+  },
+  {
+    "id": "33d9d44b-0c2f-4a21-8a46-e6039d4031fa",
+    "name": "small rack gin",
+    "category": "Liquor",
+    "image": "images/rack-gin.jpg"
+  },
+  {
+    "id": "720687fa-368c-4531-ad8c-e69026ecfa89",
+    "name": "african coffee",
+    "category": "Food",
+    "image": "images/african-coffee.jpg"
+  },
+  {
+    "id": "8f259dd5-ff57-4980-9cdb-6edba24fa009",
+    "name": "Tequila",
+    "category": "Liquor",
+    "image": "images/tequila.jpg"
+  },
+  {
+    "id": "297bee07-eb67-4fd0-a03b-f66233846a37",
+    "name": "tequila short single",
+    "category": "Liquor",
+    "image": "images/tequila.jpg"
+  },
+  {
+    "id": "6a5a8e65-cdf4-4f19-9f5f-b2bfbc71a21e",
+    "name": "sosiso",
+    "category": "Food",
+    "image": "images/sausage.jpg"
+  },
+  {
+    "id": "39d09482-d789-47bc-a1b2-160bd09f61f9",
+    "name": "energy",
+    "category": "Beers",
+    "image": "images/energy-drink.jpg"
+  },
+  {
+    "id": "d0be0b6c-3206-43bc-b74b-443f47f3a365",
+    "name": "EXO",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "1b89aa82-8c80-41f0-97c2-b543bc6672c1",
+    "name": "kawunga with isambaza",
+    "category": "Food",
+    "image": "images/sambaza.jpg"
+  },
+  {
+    "id": "19ff03a8-d952-4cbb-8560-0f24cdc15730",
+    "name": "s konyagi",
+    "category": "Liquor",
+    "image": null
+  },
+  {
+    "id": "678005b0-0557-4efd-8349-d4bf88b6ddda",
+    "name": "four cousin",
+    "category": "Wines",
+    "image": null
+  },
+  {
+    "id": "8ae38399-1436-45f8-b327-337fb8236ec1",
+    "name": "agatogo with sambaza",
+    "category": "Food",
+    "image": "images/sambaza.jpg"
+  },
+  {
+    "id": "d97eb6b5-bf55-4abe-9a35-1c954ab9dc0a",
+    "name": "coca zero",
+    "category": "Soft drinks",
+    "image": "images/coca-cola-zero.jpg"
+  },
+  {
+    "id": "641daa78-a06f-405e-b764-3bbe2cc0bf2c",
+    "name": "black coffee",
+    "category": "Food",
+    "image": "images/black-coffee.jpg"
+  },
+  {
+    "id": "00c44f04-b87f-4a9f-be5b-024ceade2e58",
+    "name": "chicken brian",
+    "category": "Food",
+    "image": "images/whole-chicken.jpg"
+  },
+  {
+    "id": "be2e2f82-fd2f-49d9-88b1-f381faab0486",
+    "name": "Fanta plastique",
+    "category": "Soft drinks",
+    "image": "images/fanta.jpg"
+  },
+  {
+    "id": "d1f47e28-2d9f-4cce-a77c-3f878501a6cf",
+    "name": "bazoka",
+    "category": "Liquor",
+    "image": "images/bazooka.jpg"
+  },
+  {
+    "id": "8729fa4a-b151-4e87-8a03-71c0c86c73fd",
+    "name": "whole chickedn with dish",
+    "category": "Barbecue",
+    "image": "images/whole-chicken.jpg"
+  },
+  {
+    "id": "afc64efb-6b23-4074-b5c8-38d6802ea62f",
+    "name": "take a way",
+    "category": "Food",
+    "image": null
+  },
+  {
+    "id": "8b0be15b-2876-44d5-a4d5-361af3c6b093",
+    "name": "kawunga",
+    "category": "Food",
+    "image": "images/ugali.jpg"
+  },
+  {
+    "id": "da62d726-fc69-4d99-b749-712834015c08",
+    "name": "jacky daniel",
+    "category": "Liquor",
+    "image": "images/jack-daniels.jpg"
+  },
+  {
+    "id": "1df25d29-de03-4da7-ae51-766ddeb991ed",
+    "name": "B panach",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "535a297b-db3f-4d34-899b-a47fe2fd55d8",
+    "name": "Golon B",
+    "category": "Liquor",
+    "image": null
+  },
+  {
+    "id": "e751958d-c71f-4bea-b2a7-e0baa8cbc855",
+    "name": "moet",
+    "category": "Liquor",
+    "image": "images/moet.jpg"
+  },
+  {
+    "id": "6714d513-d22c-4ca5-9677-aeb4a95e2289",
+    "name": "H konyagi",
+    "category": "Liquor",
+    "image": null
+  },
+  {
+    "id": "d43e9a82-914f-49e9-80a4-52313ca36dcb",
+    "name": "Desperados",
+    "category": "Beers",
+    "image": "images/desperados.jpg"
+  },
+  {
+    "id": "b2b9cf8b-7245-43d5-9b37-d70d886de731",
+    "name": "veuve champain",
+    "category": "Wines",
+    "image": "images/veuve-clicquot.jpg"
+  },
+  {
+    "id": "d205eb17-2a29-457e-866f-683b7fa3eb61",
+    "name": "Rabbit",
+    "category": "Barbecue",
+    "image": "images/rabbit.jpg"
+  },
+  {
+    "id": "fe1739b1-115b-40ea-b078-cc677fc1955d",
+    "name": "specialite",
+    "category": "Barbecue",
+    "image": "images/whole-chicken.jpg"
+  },
+  {
+    "id": "e48e5fde-218c-475e-ac25-4adb6e0649a1",
+    "name": "Sparkiling Wine",
+    "category": "Beers",
+    "image": "images/demi-sec.jpg"
+  },
+  {
+    "id": "bbb08ffb-afcd-4627-8942-6d49d2c64a5f",
+    "name": "Domaine Bel",
+    "category": "Beers",
+    "image": null
+  },
+  {
+    "id": "18396721-929f-44fd-bf93-611b16630bfd",
+    "name": "Beefater Quater",
+    "category": "Beers",
+    "image": "images/beefeater.jpg"
+  },
+  {
+    "id": "48e84fca-22ab-475d-80f0-b72e0123587a",
+    "name": "Red Wine 5L (carton)",
+    "category": "Wines",
+    "image": null
+  },
+  {
+    "id": "702f08d2-de9c-4aec-ad1c-948e62115039",
+    "name": "beef and chips rice",
+    "category": "Food",
+    "image": "images/beef-stew.jpg"
+  },
+  {
+    "id": "a35f4ebf-a30d-4e76-9f04-347a6573b874",
+    "name": "Martell VSOP",
+    "category": "Liquor",
+    "image": "images/martell-vsop.jpg"
+  },
+  {
+    "id": "9313e272-bd31-433f-b81a-98f2d345cb40",
+    "name": "stella",
+    "category": "Beers",
+    "image": "images/stella-artois.jpg"
+  }
+]
