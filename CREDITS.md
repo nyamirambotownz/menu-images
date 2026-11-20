@@ -100,3 +100,5 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/kachumbari.jpg` | Supplied by the repo owner | – | Provided by the owner |
 | `images/fish-soup.jpg` | Supplied by the repo owner | – | Provided by the owner |
 | `images/fish-soup-2.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/ndizi.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/ndizi-2.jpg` | Supplied by the repo owner | – | Provided by the owner |

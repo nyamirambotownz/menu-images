@@ -153,7 +153,10 @@
     "id": "82ec0027-22f4-4f5c-b191-31f79684d172",
     "name": "Beef & Banana",
     "category": "Food",
-    "image": "images/matoke.jpg"
+    "image": "images/ndizi.jpg",
+    "altImages": [
+      "images/ndizi-2.jpg"
+    ]
   },
   {
     "id": "2487696f-524f-40bd-aea7-0a1eae62ee63",
