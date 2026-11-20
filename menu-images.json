@@ -39,7 +39,7 @@
     "id": "a0547299-575f-4d4a-9915-964e6535e885",
     "name": "Rolex Vegetables",
     "category": "Food",
-    "image": "images/rolex.jpg"
+    "image": "images/rolex-2.jpg"
   },
   {
     "id": "539ccb8a-ff92-4b2e-ba7d-9b72a8a99003",
@@ -69,19 +69,19 @@
     "id": "40522ded-c19a-4037-99bb-598cd6ec3c33",
     "name": "Agatogo with Vegetables",
     "category": "Food",
-    "image": "images/agatogo.jpg"
+    "image": "images/matoke.jpg"
   },
   {
     "id": "82e48ae6-60fc-4009-a8ed-4d29df8bfa39",
     "name": "Agatogo with Chicken",
     "category": "Food",
-    "image": "images/agatogo.jpg"
+    "image": "images/matoke.jpg"
   },
   {
     "id": "a36ea70a-d47f-4afd-8461-29162fa88c91",
     "name": "Agatogo with Beef & Groundnuts",
     "category": "Food",
-    "image": "images/agatogo.jpg"
+    "image": "images/matoke.jpg"
   },
   {
     "id": "207cf847-55dc-41ea-85fe-4e35cd7fdd8b",
@@ -141,7 +141,7 @@
     "id": "82ec0027-22f4-4f5c-b191-31f79684d172",
     "name": "Beef & Banana",
     "category": "Food",
-    "image": "images/agatogo.jpg"
+    "image": "images/matoke.jpg"
   },
   {
     "id": "2487696f-524f-40bd-aea7-0a1eae62ee63",
@@ -393,7 +393,7 @@
     "id": "6c868bfd-a94e-4b40-a945-6523c98b6589",
     "name": "potato",
     "category": "Food",
-    "image": "images/boiled-potato.jpg"
+    "image": "images/boiled-potato-2.jpg"
   },
   {
     "id": "cfc100cf-beda-456d-a46d-633475b5d99e",
@@ -441,7 +441,7 @@
     "id": "527bc6e3-b264-414e-8439-112386fafddc",
     "name": "banana",
     "category": "Food",
-    "image": "images/banana.jpg"
+    "image": "images/matoke.jpg"
   },
   {
     "id": "0097b752-53fa-4956-871c-4fd8925206be",
@@ -783,7 +783,7 @@
     "id": "42b29883-9809-4f21-b652-7a35bfd24d69",
     "name": "beef and banana chips",
     "category": "Food",
-    "image": "images/agatogo.jpg"
+    "image": "images/matoke.jpg"
   },
   {
     "id": "3389fc84-b7f0-4730-adbb-235d290a3225",

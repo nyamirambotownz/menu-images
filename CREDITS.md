@@ -7,10 +7,8 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/african-coffee.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Café_au_lait.jpg | See file page (Creative Commons / public domain) |
 | `images/african-tea.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Chai-ya-maziwa-wikimania-2025-nairobi.jpg | See file page (Creative Commons / public domain) |
 | `images/agahozo-water.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/0036000291469 | CC BY-SA 3.0 (Open Food Facts contributors) |
-| `images/agatogo.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Ndizi_nyama.jpg | See file page (Creative Commons / public domain) |
 | `images/amarula.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/6001495062577 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/amstel.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/6001651140682 | CC BY-SA 3.0 (Open Food Facts contributors) |
-| `images/banana.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Matoke.JPG | See file page (Creative Commons / public domain) |
 | `images/baron-darignac.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/3263286342593 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/bavaria.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/8714800038669 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/bazooka.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/8906004341724 | CC BY-SA 3.0 (Open Food Facts contributors) |
@@ -20,7 +18,6 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/beef-stew.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Beef_stew_(15707525894).jpg | See file page (Creative Commons / public domain) |
 | `images/beefeater.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/5000329002193 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/black-coffee.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:A_small_cup_of_coffee.JPG | See file page (Creative Commons / public domain) |
-| `images/boiled-potato.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Boiled_potato_+_butter_@_Ethiopia_@_Kanda_(11773283145).jpg | See file page (Creative Commons / public domain) |
 | `images/bond-7.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/6161101602501 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/chef-salad.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Chef_salad.jpg | See file page (Creative Commons / public domain) |
 | `images/chicken-and-chips.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Fried_chicken_with_chips.jpg | See file page (Creative Commons / public domain) |
@@ -72,7 +69,6 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/rack-gin.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/0792649685709 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/red-bull.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/90162602 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/remy-martin-vsop.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/3024482270109 | CC BY-SA 3.0 (Open Food Facts contributors) |
-| `images/rolex.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Rolex_wrap.jpg | See file page (Creative Commons / public domain) |
 | `images/sambaza.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Rwanda_sambaza.jpg | See file page (Creative Commons / public domain) |
 | `images/sausage.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Grilled_sausages.jpg | See file page (Creative Commons / public domain) |
 | `images/savanna.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/6001108028044 | CC BY-SA 3.0 (Open Food Facts contributors) |
@@ -94,3 +90,8 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/virunga-water.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/5453003339922 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/whole-chicken.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Roast_chicken.jpg | See file page (Creative Commons / public domain) |
 | `images/whole-fish.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Tilapia_Grill.jpg | See file page (Creative Commons / public domain) |
+| `images/matoke.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/boiled-potato.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/boiled-potato-2.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/rolex.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/rolex-2.jpg` | Supplied by the repo owner | – | Provided by the owner |

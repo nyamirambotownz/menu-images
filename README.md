@@ -2,14 +2,14 @@
 
 Photos for the menu items in the abydash export (197 items).
 
-- `images/`: 90 images, JPEG, max 1000px on the longest side, named by dish or product (`images/fanta.jpg`, `images/goat-brochette.jpg`, ...).
+- `images/`: 91 images, JPEG, max 1000px on the longest side, named by dish or product (`images/fanta.jpg`, `images/goat-brochette.jpg`, ...).
 - `menu-images.json`: every menu item (`id`, `name`, `category`) with its `image` path, or `null` if no image was found yet.
 - `CREDITS.md`: the source and licence of each image.
 
 ## How the images were chosen
 
 - **Branded drinks** (beers, sodas, spirits, wines) are product photos from Open Food Facts. Where possible they are the Rwandan (Bralirwa) bottles, e.g. Mützig, Heineken, Amstel, Agahozo, Virunga, Gilbey's, Rack Gin, K-Vant and Bazooka.
-- **Dishes** are freely licensed photos from Wikimedia Commons. They show the same kind of dish, not plates from this restaurant. Several menu items share one image, e.g. all the Rolex variants or all the ugali/kawunga plates.
+- **Dishes** are freely licensed photos from Wikimedia Commons, except matoke, boiled potato and Rolex, whose photos the owner supplied. They show the same kind of dish, not plates from this restaurant. Several menu items share one image, e.g. all the ugali/kawunga plates.
 
 ## Items still without an image (29)
 
