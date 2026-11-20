@@ -67,7 +67,6 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/skol-can.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/5352201001092 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/smirnoff-ice.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/5410316983693 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/sparkling-water.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/6001651065497 | CC BY-SA 3.0 (Open Food Facts contributors) |
-| `images/spice-tea.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Masala_Chai.JPG | See file page (Creative Commons / public domain) |
 | `images/stella-artois.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/5410228141266 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/tequila.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/7501035042131 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/tusker-lager.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/6009603340128 | CC BY-SA 3.0 (Open Food Facts contributors) |
@@ -106,3 +105,5 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/beef-stew.jpg` | Supplied by the repo owner | – | Provided by the owner |
 | `images/beef-stew-2.jpg` | Supplied by the repo owner | – | Provided by the owner |
 | `images/beef-brochette.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/spice-tea.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/spice-tea-2.jpg` | Supplied by the repo owner | – | Provided by the owner |
