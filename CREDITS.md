@@ -76,7 +76,6 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/tusker-lager.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/6009603340128 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/tusker-malt.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/6009603340555 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/ugali.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Ugali_&_Sukuma_Wiki.jpg | See file page (Creative Commons / public domain) |
-| `images/ugali-with-beef.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Ugali_with_beef_and_sauce.JPG | See file page (Creative Commons / public domain) |
 | `images/vegetable-omelette.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Omelette.JPG | See file page (Creative Commons / public domain) |
 | `images/veuve-clicquot.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/3049610004104 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/virunga-water.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/5453003339922 | CC BY-SA 3.0 (Open Food Facts contributors) |
@@ -102,3 +101,6 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/fish-soup-2.jpg` | Supplied by the repo owner | – | Provided by the owner |
 | `images/ndizi.jpg` | Supplied by the repo owner | – | Provided by the owner |
 | `images/ndizi-2.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/isombe.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/ugali-with-beef.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/ugali-with-beef-2.jpg` | Supplied by the repo owner | – | Provided by the owner |

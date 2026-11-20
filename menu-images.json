@@ -162,7 +162,10 @@
     "id": "2487696f-524f-40bd-aea7-0a1eae62ee63",
     "name": "Ubugali with Jari/Ragout/Chicken",
     "category": "Food",
-    "image": "images/ugali-with-beef.jpg"
+    "image": "images/ugali-with-beef.jpg",
+    "altImages": [
+      "images/ugali-with-beef-2.jpg"
+    ]
   },
   {
     "id": "26081494-73b3-4ee1-96ef-fcc78db86a1a",
@@ -174,19 +177,28 @@
     "id": "fdbee4e1-18be-4fef-8df1-98b79b0c7d56",
     "name": "Ubugari with Beef",
     "category": "Food",
-    "image": "images/ugali-with-beef.jpg"
+    "image": "images/ugali-with-beef.jpg",
+    "altImages": [
+      "images/ugali-with-beef-2.jpg"
+    ]
   },
   {
     "id": "0d4db4ee-cf48-4944-bbf7-bba8c3201831",
     "name": "Kaunga with Ragout/Pork/Chicken",
     "category": "Food",
-    "image": "images/ugali-with-beef.jpg"
+    "image": "images/ugali-with-beef.jpg",
+    "altImages": [
+      "images/ugali-with-beef-2.jpg"
+    ]
   },
   {
     "id": "76c28196-083d-402b-adcc-8aef4d22ae9f",
     "name": "Kaunga with Beef",
     "category": "Food",
-    "image": "images/ugali-with-beef.jpg"
+    "image": "images/ugali-with-beef.jpg",
+    "altImages": [
+      "images/ugali-with-beef-2.jpg"
+    ]
   },
   {
     "id": "2afd877c-259b-43a8-bf6f-54f335a5bdc6",
@@ -633,13 +645,19 @@
     "id": "4a0a18f8-6908-4111-926d-d59a753deb90",
     "name": "kawunga with beef",
     "category": "Food",
-    "image": "images/ugali-with-beef.jpg"
+    "image": "images/ugali-with-beef.jpg",
+    "altImages": [
+      "images/ugali-with-beef-2.jpg"
+    ]
   },
   {
     "id": "9bdc875a-a5a1-4596-abc7-0ba86754b5d9",
     "name": "kawunga with ragou , pork ,chicken",
     "category": "Food",
-    "image": "images/ugali-with-beef.jpg"
+    "image": "images/ugali-with-beef.jpg",
+    "altImages": [
+      "images/ugali-with-beef-2.jpg"
+    ]
   },
   {
     "id": "626f7d6c-1027-4805-8ae0-d2feb503e2d5",
