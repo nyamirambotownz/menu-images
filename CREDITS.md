@@ -31,7 +31,6 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/fanta.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/5449000011527 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/fish-and-chips.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Fish_and_chips_blackpool.jpg | See file page (Creative Commons / public domain) |
 | `images/fish-brochette.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Brochettes_de_poissons_et_légumes.jpg | See file page (Creative Commons / public domain) |
-| `images/fish-soup.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Fish_soup.jpg | See file page (Creative Commons / public domain) |
 | `images/fish-stew.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Grilled_tilapia_with_banku.jpg | See file page (Creative Commons / public domain) |
 | `images/fried-plantain.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Fried_plantains.jpg | See file page (Creative Commons / public domain) |
 | `images/gilbeys.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/6161101602471 | CC BY-SA 3.0 (Open Food Facts contributors) |
@@ -49,7 +48,6 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/johnnie-walker-double-black.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/5000267116419 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/juice.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/2101100380134 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/k-vant.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/6203000036275 | CC BY-SA 3.0 (Open Food Facts contributors) |
-| `images/kachumbari.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Kachumbari.jpg | See file page (Creative Commons / public domain) |
 | `images/leffe.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/5410228142218 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/martell-vsop.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/3219820005899 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/martini.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/3011932000805 | CC BY-SA 3.0 (Open Food Facts contributors) |
@@ -99,3 +97,6 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/pumpkin-soup.jpg` | Supplied by the repo owner | – | Provided by the owner |
 | `images/pumpkin-soup-2.jpg` | Supplied by the repo owner | – | Provided by the owner |
 | `images/chicken-soup.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/kachumbari.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/fish-soup.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/fish-soup-2.jpg` | Supplied by the repo owner | – | Provided by the owner |
