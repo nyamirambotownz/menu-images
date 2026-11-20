@@ -23,7 +23,6 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/chicken-and-chips.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Fried_chicken_with_chips.jpg | See file page (Creative Commons / public domain) |
 | `images/chicken-brochette.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Chicken_Skewers_(7360565052).jpg | See file page (Creative Commons / public domain) |
 | `images/chicken-soup.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Chicken_Noodle_Soup_US.jpg | See file page (Creative Commons / public domain) |
-| `images/chicken-wings.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Chicken_wings.jpg | See file page (Creative Commons / public domain) |
 | `images/chips.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:French_Fries.JPG | See file page (Creative Commons / public domain) |
 | `images/coca-cola-zero.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/5449000131805 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/demi-sec.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/3113910322012 | CC BY-SA 3.0 (Open Food Facts contributors) |
@@ -75,7 +74,6 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/skol.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Bière_Skol.jpg | See file page (Creative Commons / public domain) |
 | `images/skol-can.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/5352201001092 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/smirnoff-ice.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/5410316983693 | CC BY-SA 3.0 (Open Food Facts contributors) |
-| `images/spaghetti-bolognese.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Spaghetti_bolognese.jpg | See file page (Creative Commons / public domain) |
 | `images/sparkling-water.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/6001651065497 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/spice-tea.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Masala_Chai.JPG | See file page (Creative Commons / public domain) |
 | `images/stella-artois.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/5410228141266 | CC BY-SA 3.0 (Open Food Facts contributors) |
@@ -85,7 +83,6 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/ugali.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Ugali_&_Sukuma_Wiki.jpg | See file page (Creative Commons / public domain) |
 | `images/ugali-with-beef.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Ugali_with_beef_and_sauce.JPG | See file page (Creative Commons / public domain) |
 | `images/vegetable-omelette.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Omelette.JPG | See file page (Creative Commons / public domain) |
-| `images/vegetable-soup.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Vegetable_soup.jpg | See file page (Creative Commons / public domain) |
 | `images/veuve-clicquot.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/3049610004104 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/virunga-water.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/5453003339922 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/whole-chicken.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Roast_chicken.jpg | See file page (Creative Commons / public domain) |
@@ -95,3 +92,8 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/boiled-potato-2.jpg` | Supplied by the repo owner | – | Provided by the owner |
 | `images/rolex.jpg` | Supplied by the repo owner | – | Provided by the owner |
 | `images/rolex-2.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/chicken-wings.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/vegetable-soup.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/vegetable-soup-2.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/spaghetti-bolognese.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/spaghetti-bolognese-2.jpg` | Supplied by the repo owner | – | Provided by the owner |

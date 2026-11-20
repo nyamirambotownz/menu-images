@@ -45,13 +45,19 @@
     "id": "539ccb8a-ff92-4b2e-ba7d-9b72a8a99003",
     "name": "Rolex Only",
     "category": "Food",
-    "image": "images/rolex.jpg"
+    "image": "images/rolex.jpg",
+    "altImages": [
+      "images/rolex-2.jpg"
+    ]
   },
   {
     "id": "c00d8e77-1d6b-4ba6-9c24-863f5696fbe3",
     "name": "Rolex Chicken with Chips",
     "category": "Food",
-    "image": "images/rolex.jpg"
+    "image": "images/rolex.jpg",
+    "altImages": [
+      "images/rolex-2.jpg"
+    ]
   },
   {
     "id": "5b3816b9-f736-4edd-b2a0-bf5995e0e802",
@@ -105,7 +111,10 @@
     "id": "e7f77d29-9acc-4f80-8af9-5b33ef4dc152",
     "name": "Spaghetti Bolognaise",
     "category": "Food",
-    "image": "images/spaghetti-bolognese.jpg"
+    "image": "images/spaghetti-bolognese.jpg",
+    "altImages": [
+      "images/spaghetti-bolognese-2.jpg"
+    ]
   },
   {
     "id": "ee92116b-5ec7-4cab-815e-6a01bf2eaa8e",
@@ -273,7 +282,10 @@
     "id": "333c6fd4-0d91-414a-8beb-d25dc164b0fb",
     "name": "Boiled Potato",
     "category": "Food",
-    "image": "images/boiled-potato.jpg"
+    "image": "images/boiled-potato.jpg",
+    "altImages": [
+      "images/boiled-potato-2.jpg"
+    ]
   },
   {
     "id": "7b8e7ec5-8024-481a-a25b-554899aaf8f1",
@@ -285,7 +297,10 @@
     "id": "c2664501-0c37-4e7d-b372-2b0f671e8627",
     "name": "Vegetable Soup",
     "category": "Food",
-    "image": "images/vegetable-soup.jpg"
+    "image": "images/vegetable-soup.jpg",
+    "altImages": [
+      "images/vegetable-soup-2.jpg"
+    ]
   },
   {
     "id": "7a7ccbc0-ba78-44f4-a156-44d911567334",
