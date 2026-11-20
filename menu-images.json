@@ -258,13 +258,19 @@
     "id": "1a5279f4-8476-4421-abac-356858dc76f5",
     "name": "Pork 1kg",
     "category": "Food",
-    "image": "images/pork-with-potatoes.jpg"
+    "image": "images/pork.jpg",
+    "altImages": [
+      "images/pork-with-potatoes.jpg"
+    ]
   },
   {
     "id": "24d49cdb-9829-4444-961c-4b7b4322464c",
     "name": "Pork 1/2kg",
     "category": "Food",
-    "image": "images/pork-with-potatoes.jpg"
+    "image": "images/pork.jpg",
+    "altImages": [
+      "images/pork-with-potatoes.jpg"
+    ]
   },
   {
     "id": "ca91e93e-e205-44c3-bea1-1a81213bf83e",
@@ -276,7 +282,10 @@
     "id": "105a9e51-94e6-4427-a020-518a7a26f117",
     "name": "Pork with Banana or Potato",
     "category": "Food",
-    "image": "images/pork-with-potatoes.jpg"
+    "image": "images/pork-with-potatoes.jpg",
+    "altImages": [
+      "images/pork.jpg"
+    ]
   },
   {
     "id": "333c6fd4-0d91-414a-8beb-d25dc164b0fb",
@@ -306,7 +315,10 @@
     "id": "7a7ccbc0-ba78-44f4-a156-44d911567334",
     "name": "Pumpkin Soup",
     "category": "Food",
-    "image": "images/pumpkin-soup.jpg"
+    "image": "images/pumpkin-soup.jpg",
+    "altImages": [
+      "images/pumpkin-soup-2.jpg"
+    ]
   },
   {
     "id": "8e70e8cb-e1cf-4fdf-a175-a3ab2ed2d2b7",
@@ -564,7 +576,10 @@
     "id": "9e91d637-dc1c-48ec-b955-e5cc52466bc8",
     "name": "PORK WITH POTATOES",
     "category": "Food",
-    "image": "images/pork-with-potatoes.jpg"
+    "image": "images/pork-with-potatoes.jpg",
+    "altImages": [
+      "images/pork.jpg"
+    ]
   },
   {
     "id": "c2fb9436-8412-4509-bca1-e7e48b2b42b9",

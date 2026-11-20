@@ -22,7 +22,6 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/chef-salad.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Chef_salad.jpg | See file page (Creative Commons / public domain) |
 | `images/chicken-and-chips.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Fried_chicken_with_chips.jpg | See file page (Creative Commons / public domain) |
 | `images/chicken-brochette.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Chicken_Skewers_(7360565052).jpg | See file page (Creative Commons / public domain) |
-| `images/chicken-soup.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Chicken_Noodle_Soup_US.jpg | See file page (Creative Commons / public domain) |
 | `images/chips.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:French_Fries.JPG | See file page (Creative Commons / public domain) |
 | `images/coca-cola-zero.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/5449000131805 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/demi-sec.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/3113910322012 | CC BY-SA 3.0 (Open Food Facts contributors) |
@@ -62,8 +61,6 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/plain-omelette.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:An_omelette.jpg | See file page (Creative Commons / public domain) |
 | `images/pommes-sautees.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Shallow_fried_boiled_potatoes_-_02.JPG | See file page (Creative Commons / public domain) |
 | `images/pork-with-chips.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Pork_chops_with_vegetable_and_baked_potato_with_fries_in_itamomo.jpg | See file page (Creative Commons / public domain) |
-| `images/pork-with-potatoes.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Braised_pork_and_potatoes_(3089327692).jpg | See file page (Creative Commons / public domain) |
-| `images/pumpkin-soup.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Heaalthy_Thai_Pumpkin_Soup.jpg | See file page (Creative Commons / public domain) |
 | `images/rabbit.jpg` | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Rabbit_Grilled_from_Algeria.JPG | See file page (Creative Commons / public domain) |
 | `images/rack-gin.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/0792649685709 | CC BY-SA 3.0 (Open Food Facts contributors) |
 | `images/red-bull.jpg` | Open Food Facts | https://world.openfoodfacts.org/product/90162602 | CC BY-SA 3.0 (Open Food Facts contributors) |
@@ -97,3 +94,8 @@ Every image is reused under its source licence. Open Food Facts photos are CC BY
 | `images/vegetable-soup-2.jpg` | Supplied by the repo owner | – | Provided by the owner |
 | `images/spaghetti-bolognese.jpg` | Supplied by the repo owner | – | Provided by the owner |
 | `images/spaghetti-bolognese-2.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/pork.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/pork-with-potatoes.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/pumpkin-soup.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/pumpkin-soup-2.jpg` | Supplied by the repo owner | – | Provided by the owner |
+| `images/chicken-soup.jpg` | Supplied by the repo owner | – | Provided by the owner |
